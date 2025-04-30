@@ -26,3 +26,4 @@
 /Users/darksoma/RiderProjects/FirstProject/firstProject/obj/Debug/net9.0/firstProject.pdb
 /Users/darksoma/RiderProjects/FirstProject/firstProject/obj/Debug/net9.0/firstProject.genruntimeconfig.cache
 /Users/darksoma/RiderProjects/FirstProject/firstProject/obj/Debug/net9.0/ref/firstProject.dll
+/Users/darksoma/RiderProjects/FirstProject/firstProject/obj/Debug/net9.0/firstProject.sourcelink.json
